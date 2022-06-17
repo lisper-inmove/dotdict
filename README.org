@@ -1,0 +1,25 @@
+#+STARTUP: indent
+#+TITLE: DotDict
+
+* DotDict
+#+BEGIN_VERSE
+将字典,数组转换成 '.'  访问的方式
+
+obj = DotDict(key1=value1, key2=value2...)
+obj.key3 = value3
+#+END_VERSE
+
+#+BEGIN_SRC python :results output
+  from dotdict import DotDict
+
+  obj = DotDict()
+  obj.name = "inmove"
+  obj.age = 18
+  obj.jobs = ["1", "2"]
+  obj.works = [{"name": "1", "hours": 2, "contents": ["123", "321"]}]
+  obj.a.b.c = obj.works
+  print(obj.to_dict())
+#+END_SRC
+
+#+RESULTS:
+: {'name': 'inmove', 'age': 18, 'jobs': [['1'], ['2']], 'works': [{'name': '1', 'hours': 2, 'contents': [['1', '2', '3'], ['3', '2', '1']]}], 'a': {'b': {'c': [{'name': '1', 'hours': 2, 'contents': [['1', '2', '3'], ['3', '2', '1']]}]}}}

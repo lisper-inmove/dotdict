@@ -1,0 +1,455 @@
+{
+  "dishList": [
+    {
+      "attrList": [
+        {
+          "attrSelectionType": {
+            "type": "MULTI_NOT_MUST"
+          },
+          "attrs": [
+            {
+              "id": "0f5e07df373149afbf881e3e837061d5",
+              "name": "餐盒",
+              "reprice": 100,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "301944decf7c4efbbb11d80b613f3363",
+              "name": "加面",
+              "reprice": 300,
+              "status": "NORMAL",
+              "type": "TASTE"
+            }
+          ],
+          "groupId": "70cb6e09b68c40c48f062785eb507395",
+          "groupName": "打包",
+          "isMultiSelect": false,
+          "selType": "MULTI_NOT_MUST"
+        },
+        {
+          "attrSelectionType": {
+            "type": "MULTI_NOT_MUST"
+          },
+          "attrs": [
+            {
+              "id": "b4c858e0676a40e8abc0dad4f63078fe",
+              "name": "椒麻鸡大份",
+              "reprice": 2000,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "c91c028106e44b26ad736cb7ea31e15c",
+              "name": "椒麻鸡小份",
+              "reprice": 1000,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "f21022fff1b04ed6b9fd45099ba63870",
+              "name": "羊肉串2串",
+              "reprice": 1200,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "57c0217a012844f78dc60c3e956ae962",
+              "name": "鸡珍大份",
+              "reprice": 2000,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "95b75ea96e5a4dc699863179a8ececc7",
+              "name": "鸡珍小份",
+              "reprice": 1000,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "c6bbc36bf3cb4d29b9d3618ba45c9fbb",
+              "name": "红柳烤肉",
+              "reprice": 1500,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "8f18da1b21f642d2a2f1b94d89f25b8d",
+              "name": "凉菜拼盘",
+              "reprice": 800,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "cbeb87ef7be6419b990faf0692ef7950",
+              "name": "酸奶",
+              "reprice": 800,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "b8e9cac9a7114c8997789a640efbc7e2",
+              "name": "加青菜",
+              "reprice": 300,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "b3b63ee31dbb42babb320cf261afd313",
+              "name": "泡馍饼",
+              "reprice": 600,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "68cfb4e5a9eb4e58814f94b0c93fc9e9",
+              "name": "肉夹馍",
+              "reprice": 1000,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "3bae53fe81e545a88baf01fdc5868267",
+              "name": "加牛肉",
+              "reprice": 1500,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "41a4cf4a072040e39e58588c18314ed9",
+              "name": "荷包蛋",
+              "reprice": 300,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "2e6c1def0fc04922a4e3c61779ff40be",
+              "name": "卤鸡蛋",
+              "reprice": 300,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "40700e6e58774710aba3219505b8e5c4",
+              "name": "香辣鸡腿",
+              "reprice": 1000,
+              "status": "NORMAL",
+              "type": "TASTE"
+            }
+          ],
+          "groupId": "9c7878a205fa4bb3b5f94f6469541c8f",
+          "groupName": "小吃",
+          "isMultiSelect": false,
+          "selType": "MULTI_NOT_MUST"
+        }
+      ],
+      "availableCopies": 0,
+      "boxQty": 0,
+      "categoryId": "5e8d1430b0b640ebada6111bac636a80",
+      "childDishGroups": [],
+      "discountPrice": 0,
+      "dishType": "SINGLE",
+      "enableQuantitySetting": true,
+      "hasDiscount": true,
+      "id": "483ec0e005554b74a4b3d06fe6a500d0",
+      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/95242616e62dc32d8dfd2b70da71b566.jpg",
+      "isIFeedU": false,
+      "isVerificationDish": false,
+      "marketPrice": 0,
+      "minOrderNum": 0,
+      "name": "大盘鸡拌面",
+      "originPrice": 2500,
+      "price": 2500,
+      "remainQuantity": 29,
+      "saleTimeStr": "",
+      "selectionType": {
+        "lowerLimit": 0,
+        "type": "UNLIMITED",
+        "upperLimit": 0
+      },
+      "soldNumber": 1218,
+      "sort": 0,
+      "status": "NORMAL",
+      "supplyCondimentUplimit": 0,
+      "supplyCondiments": [],
+      "tag": "NONE",
+      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-95242616e62dc32d8dfd2b70da71b566.jpg",
+      "type": "MENU",
+      "uuid": "",
+      "isSku": true,
+      "attrs": [],
+      "childDishes": [],
+      "quantity": 3
+    },
+    {
+      "attrList": [],
+      "availableCopies": 0,
+      "boxQty": 0,
+      "categoryId": "f951376ae9c74ca992e1fb596781d960",
+      "childDishGroups": [],
+      "discountPrice": 0,
+      "dishType": "SINGLE",
+      "enableQuantitySetting": false,
+      "hasDiscount": true,
+      "id": "e9da46ff85e8484eb2ee8513d8ceef45",
+      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/cb04fa2f27d9869a800a6d9ce776fba4.jpg",
+      "isIFeedU": false,
+      "isVerificationDish": false,
+      "marketPrice": 0,
+      "minOrderNum": 0,
+      "name": "凉菜拼盘",
+      "originPrice": 800,
+      "price": 800,
+      "remainQuantity": 0,
+      "saleTimeStr": "",
+      "selectionType": {
+        "lowerLimit": 0,
+        "type": "UNLIMITED",
+        "upperLimit": 0
+      },
+      "soldNumber": 612,
+      "sort": 5,
+      "status": "NORMAL",
+      "supplyCondimentUplimit": 0,
+      "supplyCondiments": [],
+      "tag": "NONE",
+      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-cb04fa2f27d9869a800a6d9ce776fba4.jpg",
+      "type": "MENU",
+      "uuid": "",
+      "isSku": false,
+      "quantity": 1
+    },
+    {
+      "attrList": [
+        {
+          "attrSelectionType": {
+            "type": "MULTI_NOT_MUST"
+          },
+          "attrs": [
+            {
+              "id": "0f5e07df373149afbf881e3e837061d5",
+              "name": "餐盒",
+              "reprice": 100,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "301944decf7c4efbbb11d80b613f3363",
+              "name": "加面",
+              "reprice": 300,
+              "status": "NORMAL",
+              "type": "TASTE"
+            }
+          ],
+          "groupId": "70cb6e09b68c40c48f062785eb507395",
+          "groupName": "打包",
+          "isMultiSelect": false,
+          "selType": "MULTI_NOT_MUST"
+        },
+        {
+          "attrSelectionType": {
+            "type": "MULTI_NOT_MUST"
+          },
+          "attrs": [
+            {
+              "id": "b4c858e0676a40e8abc0dad4f63078fe",
+              "name": "椒麻鸡大份",
+              "reprice": 2000,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "c91c028106e44b26ad736cb7ea31e15c",
+              "name": "椒麻鸡小份",
+              "reprice": 1000,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "f21022fff1b04ed6b9fd45099ba63870",
+              "name": "羊肉串2串",
+              "reprice": 1200,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "57c0217a012844f78dc60c3e956ae962",
+              "name": "鸡珍大份",
+              "reprice": 2000,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "95b75ea96e5a4dc699863179a8ececc7",
+              "name": "鸡珍小份",
+              "reprice": 1000,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "c6bbc36bf3cb4d29b9d3618ba45c9fbb",
+              "name": "红柳烤肉",
+              "reprice": 1500,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "8f18da1b21f642d2a2f1b94d89f25b8d",
+              "name": "凉菜拼盘",
+              "reprice": 800,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "cbeb87ef7be6419b990faf0692ef7950",
+              "name": "酸奶",
+              "reprice": 800,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "b8e9cac9a7114c8997789a640efbc7e2",
+              "name": "加青菜",
+              "reprice": 300,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "b3b63ee31dbb42babb320cf261afd313",
+              "name": "泡馍饼",
+              "reprice": 600,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "68cfb4e5a9eb4e58814f94b0c93fc9e9",
+              "name": "肉夹馍",
+              "reprice": 1000,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "3bae53fe81e545a88baf01fdc5868267",
+              "name": "加牛肉",
+              "reprice": 1500,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "41a4cf4a072040e39e58588c18314ed9",
+              "name": "荷包蛋",
+              "reprice": 300,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "2e6c1def0fc04922a4e3c61779ff40be",
+              "name": "卤鸡蛋",
+              "reprice": 300,
+              "status": "NORMAL",
+              "type": "TASTE"
+            },
+            {
+              "id": "40700e6e58774710aba3219505b8e5c4",
+              "name": "香辣鸡腿",
+              "reprice": 1000,
+              "status": "NORMAL",
+              "type": "TASTE"
+            }
+          ],
+          "groupId": "9c7878a205fa4bb3b5f94f6469541c8f",
+          "groupName": "小吃",
+          "isMultiSelect": false,
+          "selType": "MULTI_NOT_MUST"
+        }
+      ],
+      "availableCopies": 0,
+      "boxQty": 0,
+      "categoryId": "dbd1d1d57d8b4c078f434085519f145b",
+      "childDishGroups": [],
+      "discountPrice": 0,
+      "dishType": "SINGLE",
+      "enableQuantitySetting": false,
+      "hasDiscount": true,
+      "id": "9a7910ba3b7a47e6bdeffbc239bcf516",
+      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/aa4ce3e17c58429abeb1bf954c415c60.jpg",
+      "isIFeedU": false,
+      "isVerificationDish": false,
+      "marketPrice": 0,
+      "minOrderNum": 0,
+      "name": "酸菜牛肉面",
+      "originPrice": 1800,
+      "price": 1800,
+      "remainQuantity": 0,
+      "saleTimeStr": "",
+      "selectionType": {
+        "lowerLimit": 0,
+        "type": "UNLIMITED",
+        "upperLimit": 0
+      },
+      "soldNumber": 2506,
+      "sort": 2,
+      "status": "NORMAL",
+      "supplyCondimentUplimit": 0,
+      "supplyCondiments": [],
+      "tag": "NONE",
+      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-aa4ce3e17c58429abeb1bf954c415c60.jpg",
+      "type": "MENU",
+      "uuid": "",
+      "isSku": true,
+      "attrs": [],
+      "childDishes": [],
+      "quantity": 1
+    },
+    {
+      "attrList": [],
+      "availableCopies": 0,
+      "boxQty": 0,
+      "categoryId": "ba464992a2f846908e3efdae907307ba",
+      "childDishGroups": [],
+      "discountPrice": 0,
+      "dishType": "SINGLE",
+      "enableQuantitySetting": false,
+      "hasDiscount": true,
+      "id": "40048e05392a474f937d4aa9242d934f",
+      "image": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/59a800979597e108c8ee987edc93f7a8.jpg",
+      "isIFeedU": false,
+      "isVerificationDish": false,
+      "marketPrice": 0,
+      "minOrderNum": 0,
+      "name": "羊肉串/2串",
+      "originPrice": 1200,
+      "price": 1200,
+      "remainQuantity": 0,
+      "saleTimeStr": "",
+      "selectionType": {
+        "lowerLimit": 0,
+        "type": "NONE",
+        "upperLimit": 0
+      },
+      "soldNumber": 4414,
+      "sort": 3,
+      "status": "NORMAL",
+      "supplyCondimentUplimit": 0,
+      "supplyCondiments": [],
+      "tag": "NONE",
+      "thumbImage": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/thumb-59a800979597e108c8ee987edc93f7a8.jpg",
+      "type": "MENU",
+      "uuid": "",
+      "isSku": false,
+      "quantity": 2
+    }
+  ],
+  "mealType": "EAT_IN",
+  "shippingAddressId": "",
+  "shippingFee": 0,
+  "tableId": "2d7f9c6d1e8d425bb5447c541925b3dc",
+  "remark": "",
+  "peopleCount": 1,
+  "groupDiningEventId": "",
+  "phone": "17721485422",
+  "appointmentTime": "",
+  "discountAmountPrice": 0,
+  "forceCreate": false
+}

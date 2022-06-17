@@ -1,0 +1,15 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+# compiled output
+*.pyc
+
+# Do not include .py files compiled from protobuf specs.
+proto/**/*.py
+!proto/**/__init__.py
+!proto/**/*_helper.py
+
+*.mypy_cache
+
+# Random stuff
+# Ignore local dump of redis DB
+*.rdb
+TAGS
