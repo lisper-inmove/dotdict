@@ -18,4 +18,4 @@ if __name__ == '__main__':
     test = Test.get_obj()
     test.a = set([1, 3, 9, -1])
     test.a = test.dishList
-    print(test.a.to_dict())
+    print(test.to_dict())
