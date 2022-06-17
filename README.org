@@ -8,7 +8,7 @@ obj = DotDict(key1=value1, key2=value2...)
 obj.key3 = value3
 #+END_VERSE
 
-#+BEGIN_SRC python :results output
+#+BEGIN_SRC python :results none
   from dotdict import DotDict
 
   obj = DotDict()
@@ -20,8 +20,6 @@ obj.key3 = value3
   print(obj.to_dict())
 #+END_SRC
 
-#+RESULTS:
-: {'name': 'inmove', 'age': 18, 'jobs': [['1'], ['2']], 'works': [{'name': '1', 'hours': 2, 'contents': [['1', '2', '3'], ['3', '2', '1']]}], 'a': {'b': {'c': [{'name': '1', 'hours': 2, 'contents': [['1', '2', '3'], ['3', '2', '1']]}]}}}
 * Exceptions
 #+BEGIN_VERSE
 1. 只支持 list, dict, str, int, float, bool, tuple, set, DotDict 数据类型
