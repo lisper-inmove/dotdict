@@ -2,11 +2,9 @@
 #+TITLE: DotDict
 
 * Usage
-#+BEGIN_VERSE
 主要用于从客户端读取Json数据之后把客户端的数据变成一个 DotDict 方便后序使用
 obj = DotDict(key1=value1, key2=value2...)
 obj.key3 = value3
-#+END_VERSE
 
 #+BEGIN_SRC python :results none
   from dotdict import DotDict
@@ -21,7 +19,5 @@ obj.key3 = value3
 #+END_SRC
 
 * Exceptions
-#+BEGIN_VERSE
 1. 只支持 list, dict, str, int, float, bool, tuple, set, DotDict 数据类型
 2. 只有 DotDict 可以使用 to_dict函数.如上 obj.age.to_dict将会报错,因为 obj.age 是int类型的
-#+END_VERSE
