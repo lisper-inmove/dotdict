@@ -1,7 +1,7 @@
 #+STARTUP: indent
 #+TITLE: DotDict
 
-* DotDict
+* Usage
 #+BEGIN_VERSE
 将字典,数组转换成 '.'  访问的方式
 
