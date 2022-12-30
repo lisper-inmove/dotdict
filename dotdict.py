@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-from exception import DKeyErrorException
-from exception import DValueTypeException
+from .exception import DKeyErrorException
+from .exception import DValueTypeException
 
 
 class DotDict:
@@ -14,7 +14,7 @@ class DotDict:
 
     def __init__(self, **kargs):
         if self.__key in kargs:
-            raise DKeyErrorException("__key cannot be set")
+            raise DKeyErrorException(f"{self.__key} cannot be set")
         self.__dict__[self.__key] = kargs
 
     def __setattr__(self, key, value):
@@ -67,7 +67,7 @@ class DotDict:
         for v in value:
             if isinstance(v, DotDict):
                 v = v.to_dict()
-            elif self.__is_list(value):
+            elif self.__is_list(v):
                 v = self.__to_dict_list(v)
             result.append(v)
         return result
